@@ -132,15 +132,15 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
+      url: "https://github.com/psyrig"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube-square"
       # url:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
