@@ -15,8 +15,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 <img style="width: 110px" class="u-photo">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="">
-  <figcaption>Itty-bitty caption.</figcaption>
-</figure> 
+</img> 
 
 **item**
 
