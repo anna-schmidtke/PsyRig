@@ -13,7 +13,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 --- 
 
-<img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/bio-photo.jpg" alt=""</img style> 
+<div class="author__avatar"><img src="/assets/images/bio-photo.jpg" alt="" itemprop="image"></div
 
 **item**
 
