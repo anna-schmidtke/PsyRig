@@ -1,7 +1,6 @@
 ---
 permalink: /about/
-layout: splash
-classes: wide
+layout: default
 title: "Items"
 ---
 
