@@ -3,17 +3,19 @@ permalink: /about/
 layout: single
 title: "Items"
 ---
+<style>
+.roundedC {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+</style>
  
----
-
-<img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/photo-bio.jpg" width="150" hight="100" />
-
-<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet (55 Wörter).</p>
-
---- 
-
-<div class=".author__avatar"><img src="/assets/images/bio-photo.jpg" alt=""></div>
-
-**item**
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet (55 Wörter).
+<div class="roundedC" 
+     style="background-image: url('bio-photo.jpg');
+            background-position: 70% 50%;
+            background-size: cover"></div>
+<div class="roundedC" 
+     style="background-image: url('bio-photo-2.jpg');
+            background-position: 70% 50%;
+            background-size: 130%;"></div>
