@@ -5,7 +5,7 @@ classes: wide
 title: "Items"
 ---
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg#author__avatar){: .align-left}
+![avatar]({{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg){: .author__avatar}
 
 **item 2**
 
