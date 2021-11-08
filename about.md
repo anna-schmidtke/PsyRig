@@ -13,7 +13,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 --- 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/image-alignment-300x200.jpg){: .align-left}
+<figure style="width: 110px; border-radius: 50%;" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="">
+  <figcaption>Itty-bitty caption.</figcaption>
+</figure> 
 
 **item**
 
