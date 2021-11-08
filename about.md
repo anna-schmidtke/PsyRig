@@ -13,7 +13,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 --- 
 
-<figure style="width: 110px; border-radius: 50%;" class="align-left">
+<img style="width: 110px" class="u-photo">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="">
   <figcaption>Itty-bitty caption.</figcaption>
 </figure> 
