@@ -1,9 +1,8 @@
 ---
 permalink: /about/
-layout: single
+layout: splash
 classes: wide
 title: "Items"
-toc: true
 ---
 
 <figure style="width: 300px" class="align-left">
