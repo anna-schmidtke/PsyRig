@@ -3,19 +3,6 @@ permalink: /about/
 layout: default
 title: "Items"
 ---
-
-circular_image {
-  float: left;
-  margin-left: 125px;
-  margin-top: 20px;
-  width: 150px;
-  height: 150px;
-  border-radius: 50%
-}
-
-<div class="circular_image">
-  <img src=/assets/images/bio-photo.jpg>
-</div>
  
 ---
 
@@ -27,7 +14,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 --- 
 
-<div class="author__avatar"><img src="/assets/images/bio-photo.jpg" alt="" itemprop="image"></div>
+<div class=".author__avatar"><img src="/assets/images/bio-photo.jpg" alt=""></div>
 
 **item**
 
