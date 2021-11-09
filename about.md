@@ -3,4 +3,4 @@ permalink: /about/
 layout: single
 title: "Items"
 ---
- <img src="assets/images/Präsentation3.jpg" height="auto" width="200">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/Präsentation3.jpg){: .align-left}
