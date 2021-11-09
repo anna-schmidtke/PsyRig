@@ -5,4 +5,6 @@ title: "Items"
 ---
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/Präsentation3.jpg){: .align-left}
 
-![avatar]({{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg){: .author__avatar img}
+<div style="width:150px; height:100px; border-radius:50%";>
+![bio](/assets/images/bio-photo.jpg)
+</div>
