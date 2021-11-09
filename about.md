@@ -1,7 +1,11 @@
 ---
 permalink: /about/
-layout: single
+layout: splash
 title: "Items"
+---
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet (50 Wörter).
+
 ---
 
 ![circular-image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio-photo-2.jpg){: .circular-align-left}
