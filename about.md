@@ -5,4 +5,4 @@ title: "Items"
 ---
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/Präsentation3.jpg){: .align-left}
 
-![Bio class:author__avatar img]({{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg)
+![avatar]({{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg){:.author__avatar img}
