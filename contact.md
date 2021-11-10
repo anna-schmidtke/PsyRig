@@ -1,27 +1,13 @@
 ---
-title: "Items"
-permalink: /about/
+title: "Contact"
+permalink: /contact/
 layout: single
 author_profile: true
 ---
-
-<!doctype html>
-<html lang="en">
-
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
     <!-- the 2 lines below is needed -->
     <link href="fcf-assets/css/fcf.default.css" rel="stylesheet">
     <link href="fcf-assets/css/fcf.default-custom.css" rel="stylesheet">
     
-    <title>Contact Form</title>
-</head>
-
-<body>
-
-
     <!-- the lines below are needed -->
     <div class="fcf-body">
         <div class="fcf-form-wrap">
@@ -79,6 +65,3 @@ author_profile: true
     <script src="fcf-assets/js/fcf.just-validate.min.js"></script>
     <script src="fcf-assets/js/fcf.form.js"></script>
     <!-- the lines above are needed -->
-
-</body>
-</html>
