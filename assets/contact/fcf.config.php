@@ -63,18 +63,18 @@ define('EMAIL_TEMPLATE_IN_TEXT', 'fcf.email-in.txt');
 define('EMAIL_TEMPLATE_OUT_HTML', 'fcf.email-out.htm');
 define('EMAIL_TEMPLATE_OUT_TEXT', 'fcf.email-out.txt');
 
-define('SEND_AUTO_RESPONSE', 'NO'); // YES OR NO
+define('SEND_AUTO_RESPONSE', 'YES'); // YES OR NO
 define('EMAIL_OUT_SUBJECT', '');
-define('EMAIL_OUT_TO', 'anna-schmidtke@gmx.net');
-define('EMAIL_OUT_TO_NAME', 'Anna Schmidtke');
-define('EMAIL_OUT_FROM', 'anna-schmidtke@gmx.net');
+define('EMAIL_OUT_TO', 'FIELD:email');
+define('EMAIL_OUT_TO_NAME', 'FIELD:name');
+define('EMAIL_OUT_FROM', '');
 define('EMAIL_OUT_FROM_NAME', '');
 
 
 // *************
 // EMAIL MESSAGE
 // *************
-define('EMAIL_TO', '');
+define('EMAIL_TO', 'anna-schmidtke@gmx.net');
 define('EMAIL_TO_NAME', '');
 
 define('EMAIL_TO_CC', '');
@@ -83,7 +83,7 @@ define('EMAIL_TO_CC_NAME', '');
 define('EMAIL_TO_BCC', '');
 define('EMAIL_TO_BCC_NAME', '');
 
-define('EMAIL_FROM', '');
+define('EMAIL_FROM', 'anna-schmidtke@gmx.net');
 define('EMAIL_FROM_NAME', '');
 
 define('EMAIL_REPLY_TO', 'FIELD:Email');
