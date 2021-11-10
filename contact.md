@@ -4,21 +4,8 @@ permalink: /contact/
 layout: single
 author_profile: true
 ---
-    <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <!-- the 2 lines below is needed -->
-    <link href="fcf-assets/css/fcf.default.css" rel="stylesheet">
-    <link href="fcf-assets/css/fcf.default-custom.css" rel="stylesheet">
-    
-    <title>Contact Form</title>
-</head>
-
-<body>
-
-
-    <!-- the lines below are needed -->
+     <!-- the lines below are needed -->
     <div class="fcf-body">
         <div class="fcf-form-wrap">
             <div id="fcf-form">
@@ -59,6 +46,7 @@ author_profile: true
                                 Message</button>
                         </div>
                     </div>
+                    
                     <!-- You MUST retain the attribution below -->
                     <div class="fcf-attribution">Contact Form by <a href="https://www.freecontactform.com/"
                             class="fcf-attribution-link">FreeContactForm</a></div>
@@ -76,5 +64,3 @@ author_profile: true
     <script src="fcf-assets/js/fcf.form.js"></script>
     <!-- the lines above are needed -->
 
-</body>
-</html>
